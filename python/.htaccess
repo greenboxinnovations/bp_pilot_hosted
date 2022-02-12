@@ -1,0 +1,6 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/greenboxadmin/python"
+PassengerBaseURI "/python"
+PassengerPython "/home/greenboxadmin/virtualenv/python/3.7/bin/python"
+PassengerAppLogFile "/home/greenboxadmin/public_html/fuelcam.in/python.log"
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
